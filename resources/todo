@@ -1,0 +1,45 @@
+To do:
+
+super admin checks first create,edit post of staff before posting
+
+super admin register account of staff
+
+notifications for admin
+
+share on facebook, twitter
+
+noduplicate of featured
+
+mark featured and max of 5 or 7 delete some if max and show list
+
+popularity/trending/most viewed
+
+style pagination
+
+mood meter?
+
+Completed:
+
+success messages -ok
+
+sort by index -ok
+
+confirmation on delete and mark featured- ok
+
+secret login of staff by typing in search "iamadmin" -ok
+
+search- ok
+
+image required and minimum size -ok
+
+Optional:
+
+search ajax autocomplete (optional)
+
+ajax comments (optional)
+
+image viewer cropper (optional)
+
+mobile friendly
+
+sub-categories
